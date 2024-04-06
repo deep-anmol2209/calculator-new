@@ -1,0 +1,17 @@
+.mainBorder{
+border: 2px solid rgb(110, 107, 107);
+width: 400px;
+text-align: center;
+margin: 0 auto;
+}
+.title{
+    text-align: center;
+    font-family: cursive;
+
+}
+@media screen and (max-width: 450px) {
+    .mainBorder {
+    width: 300px
+    }
+  }
+  

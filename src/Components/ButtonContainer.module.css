@@ -1,0 +1,14 @@
+.buttonStyle{
+    flex: 0 0 calc(26% - 1px);
+    height: 65px;
+    font-size: 23px;
+    margin: 5px;
+}
+
+.container{
+    display: flex;
+    flex-wrap: wrap;
+    width: 80%;
+    margin-left: 59px;
+    margin-right: auto;
+}
