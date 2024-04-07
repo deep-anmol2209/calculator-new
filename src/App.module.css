@@ -9,9 +9,10 @@ margin: 0 auto;
     font-family: cursive;
 
 }
-@media screen and (max-width: 450px) {
+@media screen and (max-width: 750px) {
     .mainBorder {
     width: 300px
     }
+    
   }
   

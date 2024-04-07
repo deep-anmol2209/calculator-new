@@ -12,3 +12,8 @@
     margin-left: 59px;
     margin-right: auto;
 }
+@media screen and (max-width: 750px) {
+    .container{
+        margin-left: 48px;
+    }
+}
